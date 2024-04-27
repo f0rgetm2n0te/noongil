@@ -1,13 +1,13 @@
 @media screen and (max-width:900px){
 	header{
 		background: radial-gradient(lightblue, lightyellow);
-		font-size: 3vw;
+		font-size: 5vw;
 		text-align: center;
 	}
 
 	article {
 		box-shadow: 20px 5px 20px 10px dodgerblue;
-		font-size: 3vw;
+		font-size: 4vw;
 	}	
 
 	html{
@@ -18,7 +18,7 @@
 		border: 2px dotted hotpink;
 		line-height: 3;
 		word-break: keep-all;
-		font-size: 2vw;
+		font-size: 3.5vw;
 		border-radius: 28px;
 		padding: 10px;
 		background: radial-gradient(lightblue, lemonchiffon);
