@@ -11,7 +11,7 @@
 	.me{
 		position: absolute;
 		top: 90px;
-		left: 90px;
+		left: 120px;
 		background-color: red;
 		background: linear-gradient(lightskyblue, lightblue, lightgreen);
 		width: 120px;
@@ -28,7 +28,7 @@
 	.design{
 		position: absolute;
 		top: 90px;
-		right: 90px;
+		right: 120px;
 		background-color: green;
 		background: linear-gradient(lightyellow, lightpink, purple);
 		width: 120px;
