@@ -1,29 +1,39 @@
-header {
-	background: radial-gradient(hotpink, pink);
-	text-align: center;
-	font-size: 4vw;
+@media screen and (max-width:900px){
+	header{
+		background: radial-gradient(lightpink, lightyellow);
+		font-size: 3vw;
+		text-align: center;
+	}
+
+	article {
+		box-shadow: 20px 5px 20px 10px deeppink;
+		font-size: 3vw;
+	}	
+
+	html{
+		background-color: lightpink;
+	}
+
+	section {
+		border: 2px dotted hotpink;
+		line-height: 3;
+		word-break: keep-all;
+		font-size: 2vw;
+		border-radius: 28px;
+		padding: 10px;
+		background: radial-gradient(lightpink, lemonchiffon);
+		box-shadow: 20px 5px 20px 10px hotpink;
+
+	}
+
+	h2 {
+		text-align: center;
+	    background: radial-gradient(white, lightpink);
+		border-radius: 100px;
+	}
+
+	p{
+		line-height: 2;
+	}
 }
-
-html{
-	background-color: lemonchiffon;
-}
-
-article {
-	display: flex;
-	flex-direction: row;
-	font-size: 1.5vw;
-}
-
-
-section {
-	border: 2px dotted hotpink;
-	border-radius: 100px;
-	line-height: 2;
-	word-break: keep-all;
-}
-
-h2 {
-	background: radial-gradient(lightblue, lightpink);
-	border-radius: 100px;
-	text-align: center;
 }

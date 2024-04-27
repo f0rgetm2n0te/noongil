@@ -1,33 +1,38 @@
-header{
-	font-size: 3vw;
-}
+@media screen and (max-width:900px){
+	header{
+		background: radial-gradient(lightblue, lightyellow);
+		font-size: 3vw;
+		text-align: center;
+	}
 
-article {
-	background-color: lightblue;
-	display: flex;
-	flex-direction: row;
-	font-size: 1.5;
-}
+	article {
+		box-shadow: 20px 5px 20px 10px dodgerblue;
+		font-size: 3vw;
+	}	
 
-html{
-	background-color: lightblue;
-}
+	html{
+		background-color: lightblue;
+	}
 
-section {
-	border: 2px dotted hotpink;
-	border-radius: 100px;
-	line-height: 3;
-	word-break: keep-all;
-	font-size: 1vw;
+	section {
+		border: 2px dotted hotpink;
+		line-height: 3;
+		word-break: keep-all;
+		font-size: 2vw;
+		border-radius: 28px;
+		padding: 10px;
+		background: radial-gradient(lightblue, lemonchiffon);
+		box-shadow: 20px 5px 20px 10px dodgerblue;
 
-}
+	}
 
-h2 {
-	background: radial-gradient(lightblue);
-	border-radius: 100px;
-	text-align: center;
-}
+	h2 {
+		text-align: center;
+		background: radial-gradient(white, lightpink);
+		border-radius: 100px;
+	}
 
-p{
-	line-height: 2;
+	p{
+		line-height: 2;
+	}
 }
