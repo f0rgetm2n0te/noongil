@@ -11,12 +11,12 @@
 	.me{
 		position: absolute;
 		top: 90px;
-		left: 80px;
+		left: 90px;
 		background-color: red;
 		background: linear-gradient(lightskyblue, lightblue, lightgreen);
-		width: 200px;
-		height: 200px;
-		border-radius: 200px;
+		width: 120px;
+		height: 120px;
+		border-radius: 120px;
 		color: seagreen;
 		font-size: 4vw;
 		text-align: center;
@@ -28,12 +28,12 @@
 	.design{
 		position: absolute;
 		top: 90px;
-		right: 80px;
+		right: 90px;
 		background-color: green;
 		background: linear-gradient(lightyellow, lightpink, purple);
-		width: 200px;
-		height: 200px;
-		border-radius: 200px;
+		width: 120px;
+		height: 120px;
+		border-radius: 120px;
 		color: purple;
 		font-size: 4vw;
 		text-align: center;

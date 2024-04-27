@@ -18,12 +18,11 @@
 		border: 2px dotted hotpink;
 		line-height: 3;
 		word-break: keep-all;
-		font-size: 3.5vw;
+		font-size: 3.8vw;
 		border-radius: 28px;
 		padding: 10px;
 		background: radial-gradient(lightblue, lemonchiffon);
 		box-shadow: 20px 5px 20px 10px dodgerblue;
-
 	}
 
 	h2 {
