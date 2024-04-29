@@ -1,3 +1,35 @@
+header{
+		background: radial-gradient(lightblue, lightyellow);
+		font-size: 4vw;
+		text-align: center;
+	}
+
+	article {
+		box-shadow: 20px 5px 20px 10px dodgerblue;
+		font-size: 3vw;
+	}	
+
+	html{
+		background-color: lightblue;
+	}
+
+	section {
+		border: 2px dotted hotpink;
+		line-height: 3;
+		word-break: keep-all;
+		font-size: 2.8vw;
+		border-radius: 28px;
+		padding: 10px;
+		background: radial-gradient(lightblue, lemonchiffon);
+		box-shadow: 20px 5px 20px 10px dodgerblue;
+	}
+
+	h2 {
+		text-align: center;
+		background: radial-gradient(white, lightpink);
+		border-radius: 100px;
+	}
+
 @media screen and (max-width:900px){
 	header{
 		background: radial-gradient(lightblue, lightyellow);
